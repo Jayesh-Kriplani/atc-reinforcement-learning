@@ -1,5 +1,0 @@
-.idea/*
-*.iml
-.pytest_cache/
-logs/*
-logs_optimizer/*
